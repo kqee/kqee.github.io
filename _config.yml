@@ -35,6 +35,9 @@ github_username:  kqee
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # site settings
 date_format: "%d/%m/%Y"
