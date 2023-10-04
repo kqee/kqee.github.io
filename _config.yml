@@ -40,7 +40,7 @@ plugins:
   - jekyll-sitemap
 
 # site settings
-date_format: "%d/%m/%Y"
+date_format: "[%d/%m/%Y]"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
