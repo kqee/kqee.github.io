@@ -37,12 +37,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-<<<<<<< HEAD
-=======
-# site settings
-date_format: "[%d/%m/%Y]"
-
->>>>>>> 66dd23281f8d1c54b4779e3911121fa0c4581ad9
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
