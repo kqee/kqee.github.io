@@ -5,6 +5,13 @@ date: 2023-10-14 06:53:00 -0000
 categories: python
 ---
 
+* * *
+table of contents:
+
+* TOC
+{:toc}
+* * *
+
 ## preamble
 
 decorators provide a simple syntax for calling [higher-order functions](http://en.wikipedia.org/wiki/Higher-order_function).
@@ -82,7 +89,7 @@ print(second())
 
 the `func()` function is the parent function, whilst all others function inside the *parent function* are referred to as *child functions*. The *parent function* takes an integer, then it decides if the integer is 1 or 2, else return `"I am the last..."`, otherwise, return a function accordingly.
 
-# decorators
+## decorators
 
 **FYI**, decorators are merely syntatic sugar. Now you've understood how function works, we're moving on to decorators!
 
@@ -170,3 +177,7 @@ def hello():
 ```
 
 if you don't understand, I too do not understand, I am writing this whilst having a headache I guess that is it for now...
+
+## refrences
+
+* <https://realpython.com/primer-on-python-decorators/>

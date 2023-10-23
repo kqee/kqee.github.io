@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2023-10-20T01:26:15+08:00</updated><id>http://0.0.0.0:8000/feed.xml</id><title type="html">My Blog ;)</title><subtitle>hello! Welcome to my blog!! I will write about my hobbies here -- mainly, my hobbies are programming and writing. that is all for now.</subtitle><entry><title type="html">python decorators</title><link href="http://0.0.0.0:8000/python/2023/10/14/python-decorator.html" rel="alternate" type="text/html" title="python decorators" /><published>2023-10-14T14:53:00+08:00</published><updated>2023-10-14T14:53:00+08:00</updated><id>http://0.0.0.0:8000/python/2023/10/14/python-decorator</id><content type="html" xml:base="http://0.0.0.0:8000/python/2023/10/14/python-decorator.html">&lt;h2 id=&quot;preamble&quot;&gt;preamble&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://0.0.0.0:8000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8000/" rel="alternate" type="text/html" /><updated>2023-10-23T17:31:56+08:00</updated><id>http://0.0.0.0:8000/feed.xml</id><title type="html">My Blog ;)</title><subtitle>hello! Welcome to my blog!! I will write about my hobbies here -- mainly, my hobbies are programming and writing. that is all for now.</subtitle><entry><title type="html">python decorators</title><link href="http://0.0.0.0:8000/python/2023/10/14/python-decorator.html" rel="alternate" type="text/html" title="python decorators" /><published>2023-10-14T14:53:00+08:00</published><updated>2023-10-14T14:53:00+08:00</updated><id>http://0.0.0.0:8000/python/2023/10/14/python-decorator</id><content type="html" xml:base="http://0.0.0.0:8000/python/2023/10/14/python-decorator.html">&lt;hr /&gt;
+&lt;p&gt;table of contents:&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#preamble&quot; id=&quot;markdown-toc-preamble&quot;&gt;preamble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#functions&quot; id=&quot;markdown-toc-functions&quot;&gt;functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#decorators&quot; id=&quot;markdown-toc-decorators&quot;&gt;decorators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#decoratorsbonus&quot; id=&quot;markdown-toc-decoratorsbonus&quot;&gt;decorators(bonus)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;preamble&quot;&gt;preamble&lt;/h2&gt;
 
 &lt;p&gt;decorators provide a simple syntax for calling &lt;a href=&quot;http://en.wikipedia.org/wiki/Higher-order_function&quot;&gt;higher-order functions&lt;/a&gt;.&lt;/p&gt;
 
@@ -71,7 +82,7 @@ and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;remove_cu
 
 &lt;p&gt;the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;func()&lt;/code&gt; function is the parent function, whilst all others function inside the &lt;em&gt;parent function&lt;/em&gt; are referred to as &lt;em&gt;child functions&lt;/em&gt;. The &lt;em&gt;parent function&lt;/em&gt; takes an integer, then it decides if the integer is 1 or 2, else return &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;I am the last...&quot;&lt;/code&gt;, otherwise, return a function accordingly.&lt;/p&gt;
 
-&lt;h1 id=&quot;decorators&quot;&gt;decorators&lt;/h1&gt;
+&lt;h2 id=&quot;decorators&quot;&gt;decorators&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;FYI&lt;/strong&gt;, decorators are merely syntatic sugar. Now you’ve understood how function works, we’re moving on to decorators!&lt;/p&gt;
 
@@ -152,4 +163,4 @@ and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;remove_cu
     &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hello&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;if you don’t understand, I too do not understand, I am writing this whilst having a headache I guess that is it for now…&lt;/p&gt;</content><author><name></name></author><category term="python" /><summary type="html">preamble</summary></entry></feed>
+&lt;p&gt;if you don’t understand, I too do not understand, I am writing this whilst having a headache I guess that is it for now…&lt;/p&gt;</content><author><name></name></author><category term="python" /><summary type="html">table of contents:</summary></entry></feed>
