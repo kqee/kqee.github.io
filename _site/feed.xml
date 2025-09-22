@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-22T08:11:13+08:00</updated><id>/feed.xml</id><title type="html">My Blog ;)</title><subtitle>hello! Welcome to my blog!! I will write about my hobbies here -- mainly, my hobbies are programming and writing. that is all for now.</subtitle><entry><title type="html">python decorators</title><link href="/python/2023/10/14/python-decorator.html" rel="alternate" type="text/html" title="python decorators" /><published>2023-10-14T14:53:00+08:00</published><updated>2023-10-14T14:53:00+08:00</updated><id>/python/2023/10/14/python-decorator</id><content type="html" xml:base="/python/2023/10/14/python-decorator.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-22T08:14:47+08:00</updated><id>/feed.xml</id><title type="html">My Blog ;)</title><subtitle>hello! Welcome to my blog!! I will write about my hobbies here -- mainly, my hobbies are programming and writing. that is all for now.</subtitle><entry><title type="html">dying, hoping for the best</title><link href="/awful/2025/09/22/dying.html" rel="alternate" type="text/html" title="dying, hoping for the best" /><published>2025-09-22T05:34:00+08:00</published><updated>2025-09-22T05:34:00+08:00</updated><id>/awful/2025/09/22/dying</id><content type="html" xml:base="/awful/2025/09/22/dying.html">&lt;p&gt;a super quick rambling, mind not the grammar and punctuation mistakes should they be present.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to live here; the Earth specifically. It would be great to have maximum form of agency over my body and
+perception. I don’t have that, and it is likely within my lifespan I would not ever have that, what is 
+&lt;em&gt;agency over one’s body&lt;/em&gt; even mean? How do you define God? well, most people define God as a form of omnipresent or omnipotent
+being; but that’s not our goal here, we can’t really comprehend God(at least fully, we don’t know, despite claiming we love or understand God.). Humans are retarded, but being able to realise one is retarded, idiotic, moronic, imbecile or stupid is
+a form of intelligence; how else are you going to improve if you don’t think of the faults.&lt;/p&gt;
+
+&lt;p&gt;Unfortunate as far as misfortune can be, some people are so retarded or dumb that they cannot understand that; they are shortsighted and generally do not really think much; whatever helps them get through the day or what feels right…ah, I digressed
+a bit without realising, mind not the language, this is meant to be private after all; it feels more alive if I pretend
+somebody is reading or listening to my thoughts.
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__
+Anyways. I want to die so much. Everyday I think about dying, I fantasing of dying and it makes me happy that I can let this 
+all go; no longer I am bound by anything of this world. Oh, how great it would be to not care or be worried of the things
+pertaining to reality(does your God care about you? Do you ever think we understood God wrong?). I want to feel what it is 
+like to die once again: and maybe more after that if I do not die; and more after that…ad infinitum. But I will die 
+somewhere in the process(hopefully?). I want to hang myself, jump off a highrise building, shoot myself in the head(not really possible in my case, gun laws here are super strict!), or have someone kill me – don’t torture me though, unless you can’t 
+help yourself! I have cut myself(for fun)! Although, I try to not put too much effort into cutting myself because it will 
+not be a good impression for people(it would make things awkward!) I would quickly lose the sense of time when I cut myself because I would be so focused; it does not even hurt after some time. I wish I could cut more and more of myself, but not to the point I could not walk; that would be quite insane: I don’t feel insane at all, so there’s no need for insanity, haha.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to wait until I am old to die, this year is almost perfect to die. I am happy that I can indeed die. Although, the 
+shameful amount of hesitancy or shilly-shally pains me. I want to die, but I can’t just bish bash bosh do it and subsequently forthwith
+die. The circumstances I am in right now allows me to only die not immediately, but acceleratingly with a short gradual start. It is a shame that I have to write this, I am just complaining about things…a rambling! And that is indeed so human of me, sometimes I wonder
+if I am the best example of being a human, learning expressions, white lies and human psychology is annoying at the start, just to not 
+appear too dull or a bit too eccentric; I have to be a bit like you(the reader or whoever)! No more rambling, end transmission, au revoir.&lt;/p&gt;
+
+&lt;p&gt;If God does not exist, then why do I still exist? CHECKMATE ATHEISTS!&lt;/p&gt;
+
+&lt;p&gt;I will make it through&lt;/p&gt;
+
+&lt;p&gt;;3&lt;/p&gt;</content><author><name></name></author><category term="awful" /><summary type="html">a super quick rambling, mind not the grammar and punctuation mistakes should they be present.</summary></entry><entry><title type="html">python decorators</title><link href="/python/2023/10/14/python-decorator.html" rel="alternate" type="text/html" title="python decorators" /><published>2023-10-14T14:53:00+08:00</published><updated>2023-10-14T14:53:00+08:00</updated><id>/python/2023/10/14/python-decorator</id><content type="html" xml:base="/python/2023/10/14/python-decorator.html">&lt;hr /&gt;
 &lt;p&gt;table of contents:&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
